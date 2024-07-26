@@ -1,0 +1,9 @@
+C:\Users\julia\OneDrive\Escritorio\Nordic\fund_less3_exer1\build\Kconfig\Kconfig.sysbuild.modules
+C:\ncs\v2.5.2\nrf\sysbuild\Kconfig.dfu
+C:\ncs\v2.5.2\nrf\sysbuild\Kconfig.netcore
+C:\ncs\v2.5.2\nrf\sysbuild\Kconfig.secureboot
+C:\ncs\v2.5.2\nrf\sysbuild\Kconfig.sysbuild
+C:\ncs\v2.5.2\zephyr\modules\Kconfig.sysbuild
+C:\ncs\v2.5.2\zephyr\share\sysbuild\Kconfig
+C:\ncs\v2.5.2\zephyr\share\sysbuild\images\Kconfig
+C:\ncs\v2.5.2\zephyr\share\sysbuild\images\bootloader\Kconfig

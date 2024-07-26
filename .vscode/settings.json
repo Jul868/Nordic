@@ -1,0 +1,18 @@
+{
+    "cmake.sourceDirectory": "C:/Users/julia/OneDrive/Escritorio/Nordic/ncs-fund/v1.6.0-v1.9.1/lesson4/fund_less4_exer1",
+    "nrf-connect.applications": [
+        "${workspaceFolder}\\ncs-fund\\v2.x.x\\lesson4\\fund_less4_exer1",
+        "${workspaceFolder}\\ncs-fund\\v2.x.x\\lesson4\\fund_less4_exer2",
+        "${workspaceFolder}\\ncs-fund\\v2.x.x\\lesson4\\fund_less4_exer3",
+        "${workspaceFolder}\\ncs-fund\\v2.x.x\\lesson5\\fund_less5_exer1",
+        "${workspaceFolder}\\ncs-fund\\v2.x.x\\lesson7\\fund_less7_exer1",
+        "${workspaceFolder}\\ncs-fund\\v2.x.x\\lesson8\\fund_less8_exer1",
+        "${workspaceFolder}\\Analogic_Input",
+        "${workspaceFolder}\\BLE_Analog"
+    ],
+    "files.associations": {
+        "device.h": "c",
+        "pwm.h": "c",
+        "kernel.h": "c"
+    }
+}

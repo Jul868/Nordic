@@ -1,0 +1,7 @@
+default: fund_less3_exer1
+build_dir: C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build
+domains:
+  - name: fund_less3_exer1
+    build_dir: C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/fund_less3_exer1
+flash_order:
+  - fund_less3_exer1

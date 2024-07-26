@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/CMakeFiles/fund_less3_exer1"
+		},
+		{
+			"file" : "C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/CMakeFiles/fund_less3_exer1.rule"
+		},
+		{
+			"file" : "C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/CMakeFiles/fund_less3_exer1-complete.rule"
+		},
+		{
+			"file" : "C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/fund_less3_exer1-prefix/src/fund_less3_exer1-stamp/fund_less3_exer1-build.rule"
+		},
+		{
+			"file" : "C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/fund_less3_exer1-prefix/src/fund_less3_exer1-stamp/fund_less3_exer1-configure.rule"
+		},
+		{
+			"file" : "C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/fund_less3_exer1-prefix/src/fund_less3_exer1-stamp/fund_less3_exer1-download.rule"
+		},
+		{
+			"file" : "C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/fund_less3_exer1-prefix/src/fund_less3_exer1-stamp/fund_less3_exer1-install.rule"
+		},
+		{
+			"file" : "C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/fund_less3_exer1-prefix/src/fund_less3_exer1-stamp/fund_less3_exer1-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/fund_less3_exer1-prefix/src/fund_less3_exer1-stamp/fund_less3_exer1-patch.rule"
+		},
+		{
+			"file" : "C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/fund_less3_exer1-prefix/src/fund_less3_exer1-stamp/fund_less3_exer1-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"fund_less3_exer1"
+		],
+		"name" : "fund_less3_exer1"
+	}
+}

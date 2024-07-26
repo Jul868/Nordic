@@ -1,0 +1,13 @@
+# Target labels
+ fund_less3_exer1
+# Source files and their labels
+C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/CMakeFiles/fund_less3_exer1
+C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/CMakeFiles/fund_less3_exer1.rule
+C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/CMakeFiles/fund_less3_exer1-complete.rule
+C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/fund_less3_exer1-prefix/src/fund_less3_exer1-stamp/fund_less3_exer1-build.rule
+C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/fund_less3_exer1-prefix/src/fund_less3_exer1-stamp/fund_less3_exer1-configure.rule
+C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/fund_less3_exer1-prefix/src/fund_less3_exer1-stamp/fund_less3_exer1-download.rule
+C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/fund_less3_exer1-prefix/src/fund_less3_exer1-stamp/fund_less3_exer1-install.rule
+C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/fund_less3_exer1-prefix/src/fund_less3_exer1-stamp/fund_less3_exer1-mkdir.rule
+C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/fund_less3_exer1-prefix/src/fund_less3_exer1-stamp/fund_less3_exer1-patch.rule
+C:/Users/julia/OneDrive/Escritorio/Nordic/fund_less3_exer1/build/images/fund_less3_exer1-prefix/src/fund_less3_exer1-stamp/fund_less3_exer1-update.rule
